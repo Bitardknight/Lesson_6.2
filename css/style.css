@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:ital,wght@0,100;1,100;1,300&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat&family=Poppins:ital,wght@0,100;1,100;1,300&family=Roboto:ital@0;1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat&family=Oswald&family=Poppins:ital,wght@0,100;1,100;1,300&family=Roboto:ital@0;1&display=swap');
+
+@font-face {
+    font-family: CircularStd;
+    src: url(../fonts/CircularStd-Book.woff2) format("woff2"), url(../fonts/CircularStd-Book.woff) format("woff");
+font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+    font-family:CircularStd ;
+    src: url(../fonts/CircularStd-Bold\ \(1\).woff2) format("woff2"), url(../fonts/CircularStd-Bold.woff) format("woff") ; 
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    }
+
+
+h1{
+    font-family: 'CircularStd';
+max-height: 82px;
+max-width: 601px;
+font-size:65px;
+line-height: 82px;
+text-align: center;
+margin: 0 auto;
+}
+
+
+.menu{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.picture{
+    border-radius: 50%;
+width: 400px;
+height:400px;
+
+}
+
+
+.block{
+    font-family: 'Roboto', sans-serif;
+font-size: 25px;
+opacity:0.8;
+}
+
+.box{
+    font-family: 'Roboto', sans-serif;
+font-style: italic;
+font-size: 30px;
+border: 15px solid green;
+}
+
+.paragraph{
+    font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+}
+
+.text{
+    font-family: 'Oswald', sans-serif;
+font-size: 25px;
+border-left: 10px dotted blue;
+margin:15px;
+}
+
+.words{
+    font-family: 'CircularStd';
+    max-height: 50px;
+    max-width: 750px;
+    font-size:20px;
+    line-height: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+
+.big_words{
+ 
+    margin-left: 207px;
+    font-family: 'CircularStd';
+    max-height: 44x;
+    max-width: 239px;
+    font-size:34px;
+    line-height: 130%;
+
+
+
+}
+
+.centr{
+    font-family: 'CircularStd'; 
+    margin-left: 207px;
+    max-height: 140x;
+    max-width: 508px;
+    font-size:18px;
+    line-height:28px;
+
+
+
+}
+
+
+
+.name{
+    font-family: 'CircularStd'; 
+    margin-left: 207px;
+    max-height: 23x;
+    max-width: 139px;
+    font-size:18px;
+    line-height:23px;
+    font-weight: 700;
+}
+
+
+
+.professi{
+    font-family: 'CircularStd'; 
+    margin-left: 207px;
+    max-height: 23x;
+    max-width: 152px;
+    font-size:18px;
+    line-height:23px;
+    color: #B8B8B8;
+
+}
+
+
